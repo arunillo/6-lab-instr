@@ -1,0 +1,14 @@
+ЛР 6
+Вариант 26
+Parkinsons Disease Data Set
+Название файла: parkinsons.data
+Ссылка: http://archive.ics.uci.edu/ml/datasets/Parkinsons
+Первый признак: MDVP:Fhi(Hz) (столбец No 3)
+Второй признак: MDVP:Flo(Hz) (столбец No 4)
+Третий признак: DFA (столбец No 20)
+Класс: status (столбец No 18)
+Метод обработки пропущенных значений – медиана признака
+Линейные графики (lineplot) – выделение размером (size)
+Тип диаграммы категориального рассеяния – swarmplot  
+Тип диаграммы размаха – boxplot
+Тип столбчатой диаграммы – barplot
